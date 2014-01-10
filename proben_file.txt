@@ -1,0 +1,25 @@
+12	3D grafiki i trasirane na luchi	I
+I, IS, KN, M
+2
+9.5
+9, 8, 11
+9	Bqsni algoritmi	I
+I, IS, KN, M, PM, SI
+4
+10
+10, 8
+10	Diferencialno i integralno smqtane purva chast	Z
+I, KN, PM, SI
+1
+7
+
+8	Algebra	Z
+I, KN, PM, SI, Stat, M, IS
+1
+6.5
+11
+11	Diskretni strukturi	I
+I, KN, PM, SI, M, IS
+1
+10
+

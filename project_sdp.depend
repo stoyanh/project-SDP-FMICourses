@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1389276023 source:d:\c++_programs\sdp\project\project_sdp\project-sdp-fmicourses\course.cpp
+	"Course.h"
+	<cstring>
+
+1389104811 d:\c++_programs\sdp\project\project_sdp\project-sdp-fmicourses\course.h
+	<string>
+	<vector>
+	<iostream>
+
